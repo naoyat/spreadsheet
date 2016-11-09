@@ -45,6 +45,8 @@ https://docs.google.com/spreadsheets/d/<<SPREADSHEET_KEY_COMES_HERE>>/edit#gid=0
 
 Licensed under the Apache License, Version 2.0
 
+http://www.apache.org/licenses/LICENSE-2.0
+
 ## Author
 
 naoya_t
